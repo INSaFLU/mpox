@@ -1,15 +1,16 @@
 {
-  "title": "Genomic epidemiology of mpox clade I viruses",
+  "title": "INSaFLU mpox clade I Nextstrain build",
   "maintainers": [
-    {"name": "Nextstrain team", "url": "http://nextstrain.org"}
+    {"name": "Nextstrain team", "url": "http://nextstrain.org"},
+    {"name": "INSA", "url": "https://insaflu.insa.pt"}
   ],
   "data_provenance": [
     {
-      "name": "GenBank",
-      "url": "https://www.ncbi.nlm.nih.gov/genbank/"
+      "name": "INSaFLU",
+      "url": "https://insaflu.insa.pt"
     }
   ],
-  "build_url": "https://github.com/nextstrain/mpox",
+  "build_url": "https://github.com/INSaFLU/mpox",
   "colorings": [
     {
       "key": "region",
